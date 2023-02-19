@@ -1,2 +1,3 @@
-# cp-toolkit
-Competitive programming toolkit
+```
+cp-toolkit
+```
